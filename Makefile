@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-PREFIX ?= /usr/local
+PREFIX ?= /usr
 bindir = $(PREFIX)/bin
 mandir = $(PREFIX)/share/man/man1
 
